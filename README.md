@@ -171,9 +171,8 @@ https://cafe-sales-dashboard-by-sameeruddin.streamlit.app/
 
 Add a screenshot of your dashboard here after deployment.
 <p align="center">
-  <img src="./Screenshot 2026-09-14 131548.png.png" width="100%" alt="Banner"/>
+  <img src="Screenshot 2026-09-14 131548.png" width="100%" alt="Banner"/>
 </p>
-![Uploading Screenshot 2026-09-14 131548.png…]()
 
 ## 📚 Skills Demonstrated
 
