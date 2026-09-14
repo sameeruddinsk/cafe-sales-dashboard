@@ -171,9 +171,7 @@ https://cafe-sales-dashboard-by-sameeruddin.streamlit.app/
 
 Add a screenshot of your dashboard here after deployment.
 
-```text
-<img width="1902" height="1020" alt="Screenshot 2026-09-14 131548" src="https://github.com/user-attachments/assets/50519ec3-7739-40c3-a744-68c9362be28e" />
-```
+![Uploading Screenshot 2026-09-14 131548.png…]()
 
 ## 📚 Skills Demonstrated
 
